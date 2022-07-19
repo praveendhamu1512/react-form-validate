@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@300;400&family=Rubik:ital@1&display=swap');
+* {
+
+    box-sizing: border-box;
+    font-family:'cairo';
+    
+}
+
+
+
+.card-body {
+
+    background-color: #001830;
+    border-radius: 1rem;
+}
+
+.card {
+
+    border-radius: 1rem;
+}
+
+.text-des,.col-md-4 {
+
+    color: #FFFFFF;
+}
+
+.row {
+
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.btn-warning {
+
+    width: 10rem;
+    border-radius: 18px;
+}
+
+.form-control {
+
+    border: none;
+
+}
+
+.form-control,.form-control-file {
+
+    border: 0.25rem solid white!important;
+    border-width: 0.1rem !important;
+    border-style: solid !important; 
+    border-color: white;
+    background-color: #001830;
+    border-radius: 0.5rem;
+    color: antiquewhite;
+}
+
+.passport {
+
+    background-color: #3C3F44 !important;
+}
+
+h4 {
+
+    font-size: 1.1rem;
+    font-weight: 500;
+}
+
+.image-sign {
+
+    border-radius: 1rem;
+    width: 18rem;
+    height: 10rem;
+    background-color: white;
+}
+
+
+
+@media only screen and (min-width: 100px) {
+
+    .d-flex {
+
+      display: block;
+    }
+  }
+  
